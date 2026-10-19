@@ -1,3 +1,4 @@
+
 nome = input("Nome do(a) aluno(a): ")
 curso = input("Curso: ")
 disciplina = input("Disciplina: ")
